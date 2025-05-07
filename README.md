@@ -18,7 +18,7 @@ AIMAL integrates with the OpenAI API to dynamically suggest evasive actions base
 
 ![Bypassing Video](trim.mp4)
 
-![Bypassing Video posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7325447443276292096/)
+🎥 [Watch Bypassing Demo on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7325447443276292096/)
 
 ---
 📚 **Research Focus**: Offensive AI, evasive malware loaders, shellcode polymorphism, and stealth system injection.  
