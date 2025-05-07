@@ -17,6 +17,7 @@ AIMAL integrates with the OpenAI API to dynamically suggest evasive actions base
 > _Full source code and public release coming soon. For DEF CON Demo Labs use only._
 
 ![Bypassing Video](trim.mp4)
+
 ![Bypassing Video posted on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7325447443276292096/)
 
 ---
