@@ -16,6 +16,8 @@ AIMAL integrates with the OpenAI API to dynamically suggest evasive actions base
 
 > _Full source code and public release coming soon. For DEF CON Demo Labs use only._
 
+![Bypassing Video](trim.mp4)
+
 ---
 📚 **Research Focus**: Offensive AI, evasive malware loaders, shellcode polymorphism, and stealth system injection.  
 📅 **Demoed at**: DEF CON Demo Labs 2025 (submission pending)
