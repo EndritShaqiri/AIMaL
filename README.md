@@ -47,6 +47,21 @@ Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewr
 
 ---
 
+### 🛡️ AV/EDR Testing Results
+
+AIMaL has been safely tested in isolated virtual environments against major antivirus engines and demonstrated successful evasion of:
+
+- ✅ Windows Defender  
+- ✅ ESET NOD32  
+- ✅ Malwarebytes  
+- ✅ McAfee Total Protection  
+- ✅ Kaspersky  
+- ✅ Bitdefender
+
+> ⚠️ Testing was conducted in controlled lab environments using VMs and snapshots. AIMaL is intended strictly for ethical research and red team simulations.
+
+---
+
 ## 🧠 Why AIMaL?
 
 AIMaL simulates an intelligent threat that mutates on the fly — just like real-world APT malware.  
