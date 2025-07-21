@@ -1,6 +1,8 @@
 # AIMaL — Artificially Intelligent Malware Launcher
 
-![AIMaL ASCII Logo](https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_Logo.jpg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_Logo.jpg" width="350" height="180" alt="AIMaL ASCII Logo">
+</div>
 
 **AIMaL (Artificially Intelligent Malware Launcher)** is a modular red team evasion framework designed to simulate advanced malware behavior that adapts in real time using AI.
 
