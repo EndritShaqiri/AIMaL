@@ -28,7 +28,7 @@ Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewr
   - Thread Hijacking
 
 - **Payloads:**  
-  - AES-encrypted Reverse Shell (C++)  
+  - AES-encrypted Reverse Shell (C++)
   - Ransomware (under development)  
   - Future: Rootkit module
 
@@ -40,7 +40,9 @@ Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewr
 - **Advanced Stealth Features:**  
   - PPID Spoofing  
   - Hell’s Gate / Heaven’s Gate syscall mutation  
-  - Fake API calls, random delays, AMSI/ETW patching  
+  - Fake API calls, random delays, AMSI/ETW patching
+  - NTDLL unhooking
+  - GitHub-hosted encrypted payload, runtime download + decryption
   - Polymorphic rebuilds per execution
 
 ---
