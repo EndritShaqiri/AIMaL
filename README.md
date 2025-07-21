@@ -55,7 +55,7 @@ It’s ideal for:
 
 ---
 
-## 🧑‍💻 Authors
+## 🧑‍💻 Authors:
 - **Endrit Shaqiri:**  
   -📧 endritshaqiri2016@gmail.com
   -🌐 LinkedIn
