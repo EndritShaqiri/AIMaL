@@ -55,12 +55,19 @@ It’s ideal for:
 
 ---
 
-## 🧑‍💻 Authors:
-- **Endrit Shaqiri:**  
-  -📧 endritshaqiri2016@gmail.com
-  -🌐 LinkedIn
+## 📢 Contact / Collaboration
 
-- **Natyra Shaqiri:**  
-  -📧 natyrashaqiri@smccme.edu
-  -🌐 LinkedIn
-  
+We’re open to:
+
+- Red Team & Research collaborations  
+- Sponsorships  
+- Internship / Full-Time Roles in Offensive Security / AI Malware Research
+
+**Endrit Shaqiri**  
+📧 endritshaqiri2016@gmail.com  
+📱 +383 49 628 699  
+🌐 [LinkedIn](https://www.linkedin.com/in/endrit-shaqiri-a681051a8/)
+
+**Natyra Shaqiri**  
+📧 natyrashaqiri@smccme.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/natyra-shaqiri-9b8974370/)
