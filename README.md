@@ -65,7 +65,6 @@ We’re open to:
 
 **Endrit Shaqiri**  
 📧 endritshaqiri2016@gmail.com  
-📱 +383 49 628 699  
 🌐 [LinkedIn](https://www.linkedin.com/in/endrit-shaqiri-a681051a8/)
 
 **Natyra Shaqiri**  
