@@ -55,12 +55,12 @@ It’s ideal for:
 
 ---
 
-🧑‍💻 Authors
-Endrit Shaqiri
-📧 endritshaqiri2016@gmail.com
-🌐 LinkedIn
+## 🧑‍💻 Authors
+- **Endrit Shaqiri:**  
+  -📧 endritshaqiri2016@gmail.com
+  -🌐 LinkedIn
 
-Natyra Shaqiri
-📧 natyrashaqiri@smccme.edu
-🌐 LinkedIn
-
+- **Natyra Shaqiri:**  
+  -📧 natyrashaqiri@smccme.edu
+  -🌐 LinkedIn
+  
