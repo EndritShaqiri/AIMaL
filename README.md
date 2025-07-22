@@ -8,6 +8,8 @@
 
 Developed for adversarial simulation, stealth malware R&D, and AV/EDR evasion testing, AIMaL uses OpenAI’s API to automatically rewrite its own evasion techniques (ET) and execution paths (XT) based on the type of detection encountered — signature-based or behavioral-based.
 
+📄 [Download AIMaL 1 page Whitepaper (PDF)](https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_1p_WP.pdf)
+
 ---
 
 ## 🔥 Live Demo at DEF CON 33
