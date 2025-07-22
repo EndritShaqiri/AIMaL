@@ -12,7 +12,7 @@ Developed for adversarial simulation, stealth malware R&D, and AV/EDR evasion te
 
 ## 🔥 Live Demo at DEF CON 33
 
-**Red Team Village (TACTICS) & Demo Labs Presenter**  
+**Red Team Village & Demo Labs Presenter**  
 Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewrites malware in real-time to bypass modern AV/EDR solutions.
 
 ---
