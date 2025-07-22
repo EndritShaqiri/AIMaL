@@ -23,6 +23,8 @@ Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewr
   <img src="https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_DiagramFlow.jpg" width="700" height="700" alt="AIMaL Diagram Flow">
 </div>
 
+- 👉 [Diagram Flow (PDF)](https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_DiagramFlow.pdf)
+
 ---
 
 ## ⚙️ Key Features
