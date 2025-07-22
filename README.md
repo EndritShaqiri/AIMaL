@@ -17,6 +17,14 @@ Join us for a hands-on walkthrough of AIMaL’s architecture and see how AI rewr
 
 ---
 
+## Diagram Flow
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EndritShaqiri/AIMaL/main/AIMaL_Logo.jpg" alt="AIMaL Diagram Flow">
+</div>
+
+---
+
 ## ⚙️ Key Features
 
 - **Evasion Techniques (ET):**  
