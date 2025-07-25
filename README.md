@@ -86,6 +86,16 @@ It’s ideal for:
 
 ---
 
+🔒 Licensing Info
+
+AIMaL v1 is available for private research teams under a limited license.
+
+• Price: $2,500
+• Only 10 licenses available
+• Free AIMaL v2 upgrade included for early licensees
+
+---
+
 ## 📢 Contact / Collaboration
 
 We’re open to:
