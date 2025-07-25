@@ -29,7 +29,7 @@ Without explicit written permission from the authors, **you may NOT**:
 
 3. **Ownership and Attribution**
 ---------------------------------
-- AIMaL is the intellectual property of Endrit Shaqiri and Infinity Digital Agency sh.p.k.
+- AIMaL is the intellectual property of Endrit Shaqiri and Infinity Digital Agency LLC
 - You must not remove or modify the authorship or copyright notices.
 
 4. **License Requests and Commercial Use**
