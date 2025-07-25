@@ -1,0 +1,55 @@
+AIMaL Custom License Agreement (v1.0)
+=====================================
+
+Copyright (c) 2025 Endrit Shaqiri  
+All rights reserved.  
+Company: Infinity Digital Agency sh.p.k  
+Contact: endritshaqiri2016@gmail.com
+
+This software and all associated materials (hereafter referred to as "AIMaL") are licensed, not sold. By accessing, using, or possessing AIMaL in any form, you agree to the following terms and conditions.
+
+1. **Permitted Use**
+--------------------
+- AIMaL is provided strictly for:
+  • Academic research
+  • Educational demonstrations
+  • Private red teaming labs (non-commercial)
+
+- You may:
+  • Study, test, and modify AIMaL for internal research purposes
+  • Demonstrate AIMaL in controlled, non-commercial environments (e.g., DEF CON, university labs)
+
+2. **Prohibited Use**
+----------------------
+Without explicit written permission from the authors, **you may NOT**:
+  • Use AIMaL for commercial, for-profit, or client-facing purposes
+  • Distribute, resell, sublicense, or make AIMaL publicly available
+  • Upload AIMaL or its components to open-source platforms (e.g., GitHub, GitLab, VirusTotal)
+  • Use AIMaL in any malicious, unethical, or unlawful activities
+
+3. **Ownership and Attribution**
+---------------------------------
+- AIMaL is the intellectual property of Endrit Shaqiri and Infinity Digital Agency sh.p.k.
+- You must not remove or modify the authorship or copyright notices.
+
+4. **License Requests and Commercial Use**
+------------------------------------------
+- If you are interested in:
+  • Licensing AIMaL for commercial red teaming
+  • Integrating AIMaL into your product
+  • Sponsoring or investing in future versions of AIMaL
+
+  → Contact the author at: **endritshaqiri2016@gmail.com**
+
+5. **Disclaimer**
+------------------
+This software is provided “as-is” without warranty of any kind. The authors are not liable for any misuse, damage, or consequences resulting from use of AIMaL.
+
+6. **Termination**
+-------------------
+Any breach of this license automatically terminates your rights to use AIMaL. You must delete all copies of the software upon termination.
+
+---
+
+🔥 DEF CON 33 Presenter — Red Team Village & Demo Labs  
+📧 Contact for licensing, research, or collaboration: endritshaqiri2016@gmail.com
