@@ -94,6 +94,15 @@ We’re open to:
 - Sponsorships  
 - Internship / Full-Time Roles in Offensive Security / AI Malware Research
 
+---
+
+🔐 License
+---------
+AIMaL is licensed for academic research and private red teaming only.  
+Commercial use, redistribution, or resale is strictly prohibited.  
+See [`LICENSE.txt`](./LICENSE.txt) for full terms.
+
+
 **Endrit Shaqiri**  
 📧 endritshaqiri2016@gmail.com  
 🌐 [LinkedIn](https://www.linkedin.com/in/endrit-shaqiri-a681051a8/)
