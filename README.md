@@ -86,13 +86,23 @@ It’s ideal for:
 
 ---
 
-## 🔒 Licensing Info
+## 🔒 AIMaL v1 — Private Research Licensing
 
-AIMaL v1 is available for private research teams under a limited license.
+AIMaL v1 is available for exclusive licensing to red teams and offensive security researchers.
 
-- Price: $2,500
-- Only 10 licenses available
-- Free AIMaL v2 upgrade included for early licensees
+### 🧪 Tier 1 — Research License (Binary Only)
+- Price: **$2,500**
+- Includes: Fully functional binaries (AIMaL.exe, PD.exe)
+- Email-based support
+- Free upgrade to AIMaL v2
+
+### 🧬 Tier 2 — Elite Source Access
+- Price: **$5,500**
+- Includes: Full source code (under private research license), direct collaboration on v2, and private support group access
+- Guaranteed AIMaL v2 source upgrade
+
+⚠️ **Only 10 total licenses of AIMaL v1 will be issued. No exceptions.**  
+📩 To request a license, contact: **endritshaqiri2016@gmail.com**
 
 ---
 
